@@ -7,6 +7,8 @@ Includes a file for Keyword Item Distributor that correctly passes survival and 
 Pulled from the Mod Page.
 
 > In short, Relics of Hyrule is a large mod that adds scores of new weapons, spells, enchantments, enemies, NPCs, dungeons, and experiences that are (hopefully) balanced with the base Skyrim game and integrated into its locations, while connecting Zelda lore to Elder Scrolls lore as a bit of fun that gained a little too much momentum. The mod has been actively expanding and evolving since August 2013 and will continue to grow in the future.
+> 
+> There are no new quests, new lands, or dialogue, and you will not see any main characters from the Zelda franchise in this mod.
 
 # Installation
 - Install Relics of Hyrule https://www.nexusmods.com/skyrimspecialedition/mods/12244

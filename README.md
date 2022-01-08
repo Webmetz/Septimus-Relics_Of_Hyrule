@@ -8,8 +8,9 @@ Includes a file for Keyword Item Distributor that correctly passes survival and 
 - Move Relics of Hyrule a little bit, it should snap to the right position.
 ![image](https://user-images.githubusercontent.com/2394842/148655366-d08535d1-38ae-4600-8e82-b53cbc594ea2.png)
 - Install this patch
-- Place the plugin after the Open World Loot and Ghastly Interfering Patches
-![image](https://user-images.githubusercontent.com/2394842/148655701-6fca1006-ceef-4446-af15-965ca360e573.png)
+- Place the plugin after the Septimus Conflict Resolution Patch
+![image](https://user-images.githubusercontent.com/2394842/148655732-478a7006-6de1-4ebd-ad63-dfcedda37c9a.png)
+
 
 
 # Affected Level Lists

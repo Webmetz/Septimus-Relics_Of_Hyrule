@@ -14,12 +14,14 @@ Pulled from the Mod Page.
 - Install Relics of Hyrule https://www.nexusmods.com/skyrimspecialedition/mods/12244
 - Move Relics of Hyrule a little bit, it should snap to the right position.
 ![image](https://user-images.githubusercontent.com/2394842/148655366-d08535d1-38ae-4600-8e82-b53cbc594ea2.png)
+- OPTIONAL: If Using the LOTD Addon, activate that first.
 - Install this patch
-- Place the plugin after the Septimus Conflict Resolution Patch and Open World Loot patches, as it merges changes from them when applicable.
-![image](https://user-images.githubusercontent.com/2394842/148655732-478a7006-6de1-4ebd-ad63-dfcedda37c9a.png)
+- Follow the Instructions from the FOMOD, enabling the LOTD patch if you have it installed.
+- Place the plugins after Ghastly Interfering, Open World Loot Patches, and the LOTD patches (if applicable).
+![image](https://user-images.githubusercontent.com/2394842/148706274-4d73475c-cb3b-44cb-b7b9-b85565d11b9b.png)
 
 Note:  If you don't like the fairies, install the no fairy patch on the Relics of Hyrule page.
 
-# Affected Level Lists
-
+# Affected Level Lists in Primary Patch
 ![image](https://user-images.githubusercontent.com/2394842/148628442-8020282d-e5c6-4f23-b15c-cf4b0962fdda.png)
+

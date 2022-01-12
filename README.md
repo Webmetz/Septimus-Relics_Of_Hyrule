@@ -14,6 +14,7 @@ Pulled from the Mod Page.
 - It merges the leveled lists in Septimus so items/creatures spawn correctly.
 - It adds, via the included ini file, animations for weapons.
 - It adds, via the included ini file, warmth keywords to armor.
+- It moves one chest a little bit so it won't conflict with an LOTD chest.
 - It <u>***does not***</u> add any displays to the LOTD museum
 
 # Installation

@@ -10,6 +10,12 @@ Pulled from the Mod Page.
 > 
 > There are no new quests, new lands, or dialogue, and you will not see any main characters from the Zelda franchise in this mod.
 
+# What Does this Patch Do
+- It merges the leveled lists in Septimus so items/creatures spawn correctly.
+- It adds, via the included ini file, animations for weapons.
+- It adds, via the included ini file, warmth keywords to armor.
+- It <u>***does not***</u> add any displays to the LOTD museum
+
 # Installation
 - Install Relics of Hyrule from https://www.nexusmods.com/skyrimspecialedition/mods/12244 . Do not install the Hotfix.
 - Move Relics of Hyrule a little bit, it should snap to the right position.

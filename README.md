@@ -22,7 +22,7 @@ Pulled from the Mod Page.
 - Move Relics of Hyrule a little bit, it should snap to the right position.
 ![image](https://user-images.githubusercontent.com/2394842/148655366-d08535d1-38ae-4600-8e82-b53cbc594ea2.png)
 - OPTIONAL: If Using the LOTD Addon, activate that first.
-- Install the release via the Release page that best fits your game.  https://github.com/Webmetz/Septimus-Relics_Of_Hyrule/releases
+- Install into Mod Organizer the **ZIP FILE** from release via the Release page that best fits your game.  https://github.com/Webmetz/Septimus-Relics_Of_Hyrule/releases
 - Follow the Instructions from the FOMOD, enabling the LOTD patch if you have it installed.
 - Place the plugins after Ghastly Interfering, Open World Loot Patches, and the LOTD patches (if applicable).
 ![image](https://user-images.githubusercontent.com/2394842/148706274-4d73475c-cb3b-44cb-b7b9-b85565d11b9b.png)

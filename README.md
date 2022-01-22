@@ -29,6 +29,10 @@ Pulled from the Mod Page.
 
 Note:  If you don't like the fairies, install the no fairy patch on the Relics of Hyrule page.
 
-# Affected Level Lists in Primary Patch
-![image](https://user-images.githubusercontent.com/2394842/148628442-8020282d-e5c6-4f23-b15c-cf4b0962fdda.png)
-
+# Optional Patches
+- If you don't want fairies to appear in the world, there is a patch on the Relics of Hyrule Page that hides them.
+- Additional Optional Patches can be found here at my Relics of Hyrule Community Patch Hub: https://www.nexusmods.com/skyrimspecialedition/mods/31935
+ - Relics of Hyrule - Zora Equipment Protects against Cold Water
+  - Makes Zora equipment protect against freezing in cold water in Survival Mode.
+ - Relics of Hyrule - Magic Crafting at Terminan Forge SE
+  - Puts magic stations near the Terminian Forge so you don't have to travel to Solsteim or Winterhold to use them**

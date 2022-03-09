@@ -20,8 +20,8 @@ Pulled from the Mod Page.
 # Installation
 - Install Relics of Hyrule from https://www.nexusmods.com/skyrimspecialedition/mods/12244 . Do not install the Hotfix.
 - Move Relics of Hyrule a little bit, it should snap to the right position.
-![image](https://user-images.githubusercontent.com/2394842/148655366-d08535d1-38ae-4600-8e82-b53cbc594ea2.png)
-- OPTIONAL: If Using the LOTD Addon, activate that first.
+![image](https://user-images.githubusercontent.com/2394842/157357125-a05be253-bc83-43e0-87ed-af1978ce54c8.png)
+
 - Install into Mod Organizer the **ZIP FILE** from release via the Release page that best fits your game.  https://github.com/Webmetz/Septimus-Relics_Of_Hyrule/releases
 - Follow the Instructions from the FOMOD, enabling the LOTD patch if you have it installed.
 - Place the plugins after Ghastly Interfering, Open World Loot Patches, and the LOTD patches (if applicable).
@@ -31,8 +31,3 @@ Note:  If you don't like the fairies, install the no fairy patch on the Relics o
 
 # Optional Patches
 - If you don't want fairies to appear in the world, there is a patch on the Relics of Hyrule Page that hides them.
-- Additional Optional Patches can be found here at my Relics of Hyrule Community Patch Hub: https://www.nexusmods.com/skyrimspecialedition/mods/31935
-  - Relics of Hyrule - Zora Equipment Protects against Cold Water
-    - Makes Zora equipment protect against freezing in cold water in Survival Mode.
-  - Relics of Hyrule - Magic Crafting at Terminan Forge SE
-    - Puts magic stations near the Terminian Forge so you don't have to travel to Solsteim or Winterhold to use them**

@@ -34,4 +34,4 @@ Note:  If you don't like the fairies, install the no fairy patch on the Relics o
 - If you don't want fairies to appear in the world, there is a patch on the Relics of Hyrule Page that hides them.
 - Additional Optional Patches can be found here at my Relics of Hyrule Community Patch Hub: https://www.nexusmods.com/skyrimspecialedition/mods/31935
   - Relics of Hyrule - Magic Crafting at Terminan Forge SE
-    - Puts magic stations near the Terminian Forge so you don't have to travel to Solsteim or Winterhold to use them**
+    - Puts magic stations near the Terminian Forge so you don't have to travel to Solsteim or Winterhold to use them. Load this high in the list so other mods can override it.

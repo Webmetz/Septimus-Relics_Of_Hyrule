@@ -26,7 +26,7 @@ Pulled from the Mod Page.
 - Install into Mod Organizer the **ZIP FILE** from release via the Release page that best fits your game.  https://github.com/Webmetz/Septimus-Relics_Of_Hyrule/releases
 - Follow the Instructions from the FOMOD, enabling the LOTD patch if you have it installed.
 - Place the plugins after Ghastly Interfering, Open World Loot Patches, and the LOTD patches (if applicable).
-![image](https://user-images.githubusercontent.com/2394842/153092146-ec0a18fd-d4a3-4caa-b47d-f2782aa046a5.png)
+![image](https://user-images.githubusercontent.com/2394842/161354496-6118358a-ad5e-4747-866c-d486c4f8ba51.png)
 
 Note:  If you don't like the fairies, install the no fairy patch on the Relics of Hyrule page.
 
